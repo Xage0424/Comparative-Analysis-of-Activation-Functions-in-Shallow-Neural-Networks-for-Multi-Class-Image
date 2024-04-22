@@ -1,5 +1,5 @@
 #  [ Ongoing Project ]
-# Note: Training the Models with the Chosen Activation Functions on the Hidden Layer in Each Independent Environment or Colab Notebook
+Note: Training the Models with the Chosen Activation Functions on the Hidden Layer in Each Independent Environment or Colab Notebook
 
 # Initial Work Plan:
 # Concept/Idea:
