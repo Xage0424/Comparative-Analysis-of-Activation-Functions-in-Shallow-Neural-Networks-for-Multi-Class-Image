@@ -1,9 +1,26 @@
 #  [ Ongoing Project ]
-Note: Training the Models with the Chosen Activation Functions on the Hidden Layer in Each Independent Environment or Colab Notebook
+Note: Training the Models with the Chosen Activation Function on the Hidden Layer in Each Independent Environment or Colab Notebook
 
 # Initial Work Plan:
 # Concept/Idea:
 Comparisons of how different chosen activation functions perform/behave and affects on a shallow neural network performances with constant architectural parameters in each dataset for multi-class image classification like MNIST Digits and CIFAR-10 using the selected evaluation metrics.
+
+# Initial Shallow NN Architecture to be used:
+1. MNIST Handwritten Digits
+- Input Layer: 28,28,1
+- Hidden Layer: 32
+- Dropout Layer: 0.1
+- Hidden Layer: 64
+- Dropout Layer: 0.1
+- Output Layer: 10
+  
+2. CIFAR-10
+- Input Layer: 32,32,3
+- Hidden Layer: 
+- Dropout Layer: 0.1
+- Hidden Layer: 
+- Dropout Layer: 0.1
+- Output Layer: 10
 
 # Image Datasets to be used:
 1. MNIST Handwritten Digits (Grayscale)
