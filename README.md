@@ -1,6 +1,6 @@
 # Ongoing Project...
 
-
+# Initial Work Plan
 # Concept/Idea:
 Comparisons of how different chosen activation functions perform/behave and affects on a shallow neural network performances with constant architectural parameters in each dataset for multi-class image classification like MNIST Digits and CIFAR-10 using the selected evaluation metrics.
 
