@@ -1,6 +1,6 @@
-# Ongoing Project...
+#  [ Ongoing Project ]
 
-# Initial Work Plan
+# Initial Work Plan:
 # Concept/Idea:
 Comparisons of how different chosen activation functions perform/behave and affects on a shallow neural network performances with constant architectural parameters in each dataset for multi-class image classification like MNIST Digits and CIFAR-10 using the selected evaluation metrics.
 
@@ -39,5 +39,5 @@ Baseline: ReLu (Rectified Linear Unit)
 6. F1 Score
 
 # Additional/Possible Evaluation Techniques to be used:
-1. Cross Validation K-Fold
+1. Cross Validation like K-Fold
 2. Statistical Analysis techniques
