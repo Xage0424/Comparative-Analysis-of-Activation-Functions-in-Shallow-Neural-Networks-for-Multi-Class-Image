@@ -32,7 +32,12 @@ Baseline: ReLu (Rectified Linear Unit)
 
 # Evaluation Metrics:
 1. Accuracy
-2. Confusion Matrix
-3. Precision
-4. Recall
-5. F1 Score
+2. Loss
+3. Confusion Matrix
+4. Precision
+5. Recall
+6. F1 Score
+
+# Additional/Possible Evaluation Techniques to be used:
+1. Cross Validation K-Fold
+2. Statistical Analysis techniques
